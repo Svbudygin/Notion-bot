@@ -1,17 +1,12 @@
 {
     "event with time": {
-        "days": 1,
-        "seconds": 35082,
-        "fulldatestr": "11:00 26 December 2023 (Tuesday)"
-    },
-    "др иван": {
         "days": 0,
-        "seconds": 42282,
-        "fulldatestr": "13:00 25 December 2023 (Monday)"
+        "seconds": 77407,
+        "fulldatestr": "11:00 26 December 2023 (Tuesday)"
     },
     "event name": {
         "days": 2,
-        "seconds": 71082,
+        "seconds": 27007,
         "fulldatestr": "21:00 27 December 2023 (Wednesday)"
     }
 }

@@ -23,6 +23,14 @@ def check_deadline(currenttime):
         return {'days': period.days, 'seconds': period.seconds}
 
 
+def time_from_last_response(currenttime):
+    event_time = re.split('-|:|T|\s', currenttime)[:5]
+    now = datetime.now()
+    response_time = datetime(*map(int, event_time))
+    period = now - response_time
+    return period.total_seconds()
+
+
 if __name__ == '__main__':
     x = check_deadline("2023-12-27T21:00:00.000+03:00")
     print(x)
