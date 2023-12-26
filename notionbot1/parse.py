@@ -17,7 +17,7 @@ def cache_with_timeout(func):
     @functools.wraps(func)
     def wrapper(userID, *args, **kwargs):
         current_time = time.time()
-        if userID in last_called and current_time - last_called[userID] < 1:
+        if userID in last_called and current_time - last_called[userID] < 100 and cache[userID] != Mistake:
             return cache[userID]
         else:
             result = func(userID, *args, **kwargs)
@@ -62,7 +62,6 @@ def get_pages_parsing(userID, filename):
     if data.get('object') == "error":
         return Mistake
     return results
-
 
 
 def get_data_from_json(UserID, filename):
