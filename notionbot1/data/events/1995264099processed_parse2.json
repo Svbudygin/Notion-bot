@@ -1,0 +1,32 @@
+{
+    "нг": {
+        "days": 3,
+        "seconds": 79070,
+        "fulldatestr": "31 December 2023 (Sunday)",
+        "date": "2023-12-31"
+    },
+    "29 deccc": {
+        "days": 1,
+        "seconds": 79070,
+        "fulldatestr": "29 December 2023 (Friday)",
+        "date": "2023-12-29"
+    },
+    "30 dec": {
+        "days": 2,
+        "seconds": 79070,
+        "fulldatestr": "30 December 2023 (Saturday)",
+        "date": "2023-12-30"
+    },
+    "1234": {
+        "days": 0,
+        "seconds": 79070,
+        "fulldatestr": "28 December 2023 (Thursday)",
+        "date": "2023-12-28"
+    },
+    "event name": {
+        "days": 0,
+        "seconds": 68270,
+        "fulldatestr": "21:00 27 December 2023 (Wednesday)",
+        "date": "2023-12-27"
+    }
+}
