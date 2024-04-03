@@ -16,8 +16,8 @@ The Notion Calendar Bot is a versatile bot that can connect to your Notion accou
 
 ### Screenshots:
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+     <img src="assets/IMG_2292.PNG" alt="Screenshot 3" width="350" style="margin: 20px;">
     <img src="assets/IMG_2281.PNG" alt="Screenshot 3" width="350" style="margin: 20px;">
-    <img src="assets/IMG_2292.PNG" alt="Screenshot 3" width="350" style="margin: 20px;">
     <img src="assets/IMG_2282.PNG" alt="Screenshot 3" width="350" style="margin: 20px;">
     <img src="assets/IMG_2286.PNG" alt="Screenshot 3" width="350" style="margin: 20px;">
     <img src="assets/IMG_2288.PNG" alt="Screenshot 3" width="350" style="margin: 20px;">
